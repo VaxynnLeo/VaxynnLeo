@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p data-importer="text" align="left">I'm Vann from Indonesia<br><br>- 🔭 I’m study at SMKN 1 Probolinggo<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I code</p>
 
 ###
 
