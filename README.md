@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=299&color=ff0000&text=Adeleo%20Rivano&section=header&reversal=false&fontColor=00008b&animation=twinkling&stroke=ffffff&strokeWidth=8&desc=Software%20Engineer&descSize=20&descAlign=50&descAlignY=79" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=299&color=ff0000&text=Adeleo%20Rivano&section=header&reversal=false&fontColor=000000&animation=twinkling&stroke=ffffff&strokeWidth=8&desc=Software%20Engineer&descSize=20&descAlign=50&descAlignY=79" />
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
